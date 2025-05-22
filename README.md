@@ -32,4 +32,4 @@ This is a work-in-progress web app that implements Cognitive Behavioral Therapy 
 
 ## License
 
-This project is open source and available under the terms of the ![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)(LICENSE). You are free to use, modify, and distribute it, as long as you comply with the license terms.
+This project is open source and available under the terms of the ![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg). You are free to use, modify, and distribute it, as long as you comply with the license terms.
